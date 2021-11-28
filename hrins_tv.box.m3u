@@ -1,0 +1,419 @@
+#EXTM3U
+#EXTINF:-1, bein sports premium  1 HD 
+http://172.25.25.99:80/beinsport-HD1/index.m3u8
+#EXTINF:-1, bein sports premium 2 HD 
+http://172.25.25.99:80/beinsport-HD2/index.m3u8
+#EXTINF:-1, bein sports premium 3 HD 
+http://172.25.25.99:80/beinsport-HD3/index.m3u8
+#EXTINF:-1, bein sports 1 HD 
+http://172.25.25.99:80/beinsport-HD4/index.m3u8
+#EXTINF:-1, bein sports 2 HD 
+http://172.25.25.99:80/beinsport-HD5/index.m3u8
+#EXTINF:-1, bein sports 3 HD 
+http://172.25.25.99:80/beinsport-HD6/index.m3u8
+#EXTINF:-1, bein sports 4 HD 
+http://172.25.25.99:80/beinsport-HD7/index.m3u8
+#EXTINF:-1, bein sports 5 HD 
+http://172.25.25.99:80/beinsport-HD8/index.m3u8
+#EXTINF:-1, bein sports 6 HD 
+http://172.25.25.99:80/beinsport-HD9/index.m3u8
+#EXTINF:-1, Alkass 1 HD 
+http://172.25.25.99:80/alkass1/index.m3u8
+#EXTINF:-1, Alkass 3 HD 
+http://172.25.25.99:80/Alkass3/index.m3u8
+#EXTINF:-1, bein sports News HD 
+http://172.25.25.99:80/beinsportnews/index.m3u8
+#EXTINF:-1, ALIRAQIA SPORTS HD 
+http://172.25.25.99:80/IRAQIASPORT/index.m3u8
+#EXTINF:-1, ALFAN HD 
+http://172.25.25.99:80/alfan/index.m3u8
+#EXTINF:-1, Alkass 6 HD 
+http://172.25.25.99:80/alkass6/index.m3u8
+#EXTINF:-1, Bein Movies HD1 HD 
+http://172.25.25.99:80/beINMovies1HD/index.m3u8
+#EXTINF:-1, MBC MAX HD 
+http://172.25.25.99:80/MBCMAX/index.m3u8
+#EXTINF:-1, DOCUMENTRY AR HD 
+http://172.25.25.99:80/Documentary/index.m3u8
+#EXTINF:-1, ALYOUM HD 
+http://172.25.25.99:80/al3youn/index.m3u8
+#EXTINF:-1, AMC HD 
+http://172.25.25.99:80/AMC/index.m3u8
+#EXTINF:-1, ART AFLAM 1 HD 
+http://172.25.25.99:80/art1/index.m3u8
+#EXTINF:-1, ART CINEMA HD 
+http://172.25.25.99:80/artcinema/index.m3u8
+#EXTINF:-1, Bein Drama HD HD 
+http://172.25.25.99:80/beindrama/index.m3u8
+#EXTINF:-1, Bein Movies HD2 HD 
+http://172.25.25.99:80/beINMovies2HD/index.m3u8
+#EXTINF:-1, Bein Movies HD3 HD 
+http://172.25.25.99:80/beINMovies3HD/index.m3u8
+#EXTINF:-1, Bein Movies HD4 HD 
+http://172.25.25.99:80/beINMovies4HD/index.m3u8
+#EXTINF:-1, Bein Series HD1 HD 
+http://172.25.25.99:80/beINSeries1HD/index.m3u8
+#EXTINF:-1, Bein Series HD2 HD 
+http://172.25.25.99:80/beINSeries2HD/index.m3u8
+#EXTINF:-1, ksa sport HD 
+http://172.25.25.99:80/beINSportNBA/index.m3u8
+#EXTINF:-1, Cinema 2 HD 
+http://172.25.25.99:80/cinema22/index.m3u8
+#EXTINF:-1, DICOVERY ID HD 
+http://172.25.25.99:80/DiscoveryID/index.m3u8
+#EXTINF:-1, FIXFOX HD 
+http://172.25.25.99:80/fixfox/index.m3u8
+#EXTINF:-1, Fox Movies HD 
+http://172.25.25.99:80/FOXMovies/index.m3u8
+#EXTINF:-1, GULI ARABI HD 
+http://172.25.25.99:80/guli/index.m3u8
+#EXTINF:-1, ART HEKAYAT 2 HD 
+http://172.25.25.99:80/hikayat2/index.m3u8
+#EXTINF:-1, HISTORY 2 HD 
+http://172.25.25.99:80/history2/index.m3u8
+#EXTINF:-1, MBC3 HD 
+http://172.25.25.99:80/MBC3HD/index.m3u8
+#EXTINF:-1, MBC IRAQ HD HD 
+http://172.25.25.99:80/MBCIRAQHD/index.m3u8
+#EXTINF:-1, NICK JR HD 
+http://172.25.25.99:80/NICKJR/index.m3u8
+#EXTINF:-1, OSN ACTION HD 
+http://172.25.25.99:80/OSNAction/index.m3u8
+#EXTINF:-1, OSN KIDS HD 
+http://172.25.25.99:80/OSNKIDS/index.m3u8
+#EXTINF:-1, OSN LIVING HD 
+http://172.25.25.99:80/Osn-living/index.m3u8
+#EXTINF:-1, ROTANA COMEDY HD 
+http://172.25.25.99:80/Rotana_comedy/index.m3u8
+#EXTINF:-1, SKY HIST HD 
+http://172.25.25.99:80/SkyPremium/index.m3u8
+#EXTINF:-1, SKY SCIFI HORROR HD 
+http://172.25.25.99:80/SkySci_Fi_Horr/index.m3u8
+#EXTINF:-1, TLC HD 
+http://172.25.25.99:80/TLC/index.m3u8
+#EXTINF:-1, Travel Channel HD 
+http://172.25.25.99:80/TravelChannel/index.m3u8
+#EXTINF:-1, SKY ACTION HD 
+http://172.25.25.99:80/SkyAction/index.m3u8
+#EXTINF:-1, OSN COMEDY HD 
+http://172.25.25.99:80/OSNComedy/index.m3u8
+#EXTINF:-1, OSN SERIES FIRS HD 
+http://172.25.25.99:80/OSNseriesFirs/index.m3u8
+#EXTINF:-1, OSN YA HALA HD 
+http://172.25.25.99:80/OSNYahla/index.m3u8
+#EXTINF:-1, OSN YA HALA ALOLA HD 
+http://172.25.25.99:80/OSNYahlaAlowl/index.m3u8
+#EXTINF:-1, ART AFLAM 2 HD 
+http://172.25.25.99:80/art2/index.m3u8
+#EXTINF:-1, ART HEKAYAT  HD 
+http://172.25.25.99:80/hikayat1/index.m3u8
+#EXTINF:-1, OSN MOVIES HD 
+http://172.25.25.99:80/OSNMovies/index.m3u8
+#EXTINF:-1, OSN ENIGMA HD 
+http://172.25.25.99:80/OSNEngima/index.m3u8
+#EXTINF:-1, E! HD 
+http://172.25.25.99:80/E!/index.m3u8
+#EXTINF:-1, OSN DISNEY HD 
+http://172.25.25.99:80/OSNDisney/index.m3u8
+#EXTINF:-1, NICKELODEON HD 
+http://172.25.25.99:80/nicklodeon/index.m3u8
+#EXTINF:-1, OSN YA HALA CINEMA HD 
+http://172.25.25.99:80/OSNYahlaCinem/index.m3u8
+#EXTINF:-1, COMEDY CENTRAL HD 
+http://172.25.25.99:80/comedycenter/index.m3u8
+#EXTINF:-1, HISTORY HD 
+http://172.25.25.99:80/history1/index.m3u8
+#EXTINF:-1, MBC 2 HD 
+http://172.25.25.99:80/MBC2HD/index.m3u8
+#EXTINF:-1, MBC 4 HD 
+http://172.25.25.99:80/MBC4HD/index.m3u8
+#EXTINF:-1, MBC BOLYOOD HD 
+http://172.25.25.99:80/MBCbollywood/index.m3u8
+#EXTINF:-1, MBC VARIETY HD 
+http://172.25.25.99:80/MBCVariety/index.m3u8
+#EXTINF:-1, MBC DRAMA+ HD 
+http://172.25.25.99:80/mbcdramplus/index.m3u8
+#EXTINF:-1, MBC DRAMA HD 
+http://172.25.25.99:80/mbcdrama/index.m3u8
+#EXTINF:-1, MBC ACTION HD 
+http://172.25.25.99:80/MBCAction/index.m3u8
+#EXTINF:-1, NAT GEO WILD HD 
+http://172.25.25.99:80/NatGeoWild/index.m3u8
+#EXTINF:-1, PLANET EARTH HD 
+http://172.25.25.99:80/PlanetEarth/index.m3u8
+#EXTINF:-1, TIJI HD 
+http://172.25.25.99:80/Tiji/index.m3u8
+#EXTINF:-1, TDC HD 
+http://172.25.25.99:80/tdc/index.m3u8
+#EXTINF:-1, STAR MOVIES HD 
+http://172.25.25.99:80/starmovies/index.m3u8
+#EXTINF:-1, STAR WORLD HD 
+http://172.25.25.99:80/starworld/index.m3u8
+#EXTINF:-1, Fox Movies Family HD 
+http://172.25.25.99:80/FoxFamilyMovies/index.m3u8
+#EXTINF:-1, Fox Movies Action HD 
+http://172.25.25.99:80/FoxActionMovies/index.m3u8
+#EXTINF:-1, NAT GEO PEOPLE HD 
+http://172.25.25.99:80/NatGeoPeople/index.m3u8
+#EXTINF:-1, DISCOVERY SICEN HD 
+http://172.25.25.99:80/DiscoveryScince/index.m3u8
+#EXTINF:-1, ANIMAL PLANET HD 
+http://172.25.25.99:80/AnimalPlant/index.m3u8
+#EXTINF:-1, ALSHARQIA NEWS HD 
+http://172.25.25.99:80/alsharqia_news/index.m3u8
+#EXTINF:-1, Alkass 2 HD 
+http://172.25.25.99:80/alkass2/index.m3u8
+#EXTINF:-1, DMC HD 
+http://172.25.25.99:80/DMC/index.m3u8
+#EXTINF:-1, HG HD 
+http://172.25.25.99:80/hgtv/index.m3u8
+#EXTINF:-1, SKY Premium HD 
+http://172.25.25.99:80/SkyPremium/index.m3u8
+#EXTINF:-1, Olympic channel HD 
+http://172.25.25.99:80/beinsport-HD10/index.m3u8
+#EXTINF:-1, Alkass 5 HD 
+http://172.25.25.99:80/alkass5/index.m3u8
+#EXTINF:-1, Alkass 7 HD 
+http://172.25.25.99:80/alkass7/index.m3u8
+#EXTINF:-1, KSA 1 HD 
+http://172.25.25.99:80/ksasport1/index.m3u8
+#EXTINF:-1, FIGHT BOX HD 
+http://172.25.25.99:80/FightBox/index.m3u8
+#EXTINF:-1, ALSHARQIYA HD 
+http://172.25.25.99:80/AlSharqiya/index.m3u8
+#EXTINF:-1, ALRASHEED HD 
+http://172.25.25.99:80/alrasheed/index.m3u8
+#EXTINF:-1, UTV HD 
+http://172.25.25.99:80/utv/index.m3u8
+#EXTINF:-1, ALSUMARIA HD 
+http://172.25.25.99:80/AlSumaria/index.m3u8
+#EXTINF:-1, DIJLA HD 
+http://172.25.25.99:80/dijla/index.m3u8
+#EXTINF:-1, REEL PX CINEMA HD 
+http://172.25.25.99:80/ReelPx-Action/index.m3u8
+#EXTINF:-1, OSN MEZZE HD 
+http://172.25.25.99:80/osn-mezze/index.m3u8
+#EXTINF:-1, DISCOVERY HD HD 
+http://172.25.25.99:80/DiscoveryHD/index.m3u8
+#EXTINF:-1, OSN MOVIES FIRST HD 
+http://172.25.25.99:80/OSNMoviesFirst/index.m3u8
+#EXTINF:-1, ROTANA CINEMA HD 
+http://172.25.25.99:80/RotanaCinema/index.m3u8
+#EXTINF:-1, ABU DHABI HD 
+http://172.25.25.99:80/Abu-Dhabi/index.m3u8
+#EXTINF:-1, REEL PX COMEDY HD 
+http://172.25.25.99:80/REELPXCOMEDY/index.m3u8
+#EXTINF:-1, KSA sport 2 HD 
+http://172.25.25.99:80/ksasport2/index.m3u8
+#EXTINF:-1, MTV HD 
+http://172.25.25.99:80/mtv/index.m3u8
+#EXTINF:-1, Alfa CINEMA 1 HD 
+http://172.25.25.99:80/cinema11/index.m3u8
+#EXTINF:-1, ALAHD HD 
+http://172.25.25.99:80/al3ahd/index.m3u8
+#EXTINF:-1, ALRAFIDEN HD 
+http://172.25.25.99:80/alrafiden/index.m3u8
+#EXTINF:-1, ALARABY HD 
+http://172.25.25.99:80/alghadal3arby/index.m3u8
+#EXTINF:-1, LBC HD 
+http://172.25.25.99:80/LBC/index.m3u8
+#EXTINF:-1, ROTANA DRAMA HD 
+http://172.25.25.99:80/rotanadrama/index.m3u8
+#EXTINF:-1, ROTANA KHALIJIA HD 
+http://172.25.25.99:80/rotanakhalijia/index.m3u8
+#EXTINF:-1, ROTANA CLASSIC HD 
+http://172.25.25.99:80/rotanaclassic/index.m3u8
+#EXTINF:-1, ROTANA AFLAM HD 
+http://172.25.25.99:80/rotanaaflam/index.m3u8
+#EXTINF:-1, OTV HD 
+http://172.25.25.99:80/otv/index.m3u8
+#EXTINF:-1, ALHAYAT HD 
+http://172.25.25.99:80/alhayathd/index.m3u8
+#EXTINF:-1, Sama Dubai HD 
+http://172.25.25.99:80/samatv/index.m3u8
+#EXTINF:-1, SAMA DRAMA HD 
+http://172.25.25.99:80/samadrama/index.m3u8
+#EXTINF:-1, SHOW TV HD 
+http://172.25.25.99:80/show/index.m3u8
+#EXTINF:-1, A2 HD 
+http://172.25.25.99:80/atv2/index.m3u8
+#EXTINF:-1, KANAL D HD 
+http://172.25.25.99:80/kanald/index.m3u8
+#EXTINF:-1, TRT2 HD 
+http://172.25.25.99:80/trt2/index.m3u8
+#EXTINF:-1, EURO STAR HD 
+http://172.25.25.99:80/eurostar/index.m3u8
+#EXTINF:-1, ATV SPOR HD 
+http://172.25.25.99:80/atvsport/index.m3u8
+#EXTINF:-1, TRT ARABIC HD 
+http://172.25.25.99:80/trtarabic/index.m3u8
+#EXTINF:-1, Net Tv HD 
+http://172.25.25.99:80/nrtsres/index.m3u8
+#EXTINF:-1, NRT HD HD 
+http://172.25.25.99:80/nrtHD/index.m3u8
+#EXTINF:-1, KURDMAX MUSIC HD 
+http://172.25.25.99:80/kurdma_music/index.m3u8
+#EXTINF:-1, KURDSAT HD 
+http://172.25.25.99:80/kurdsat/index.m3u8
+#EXTINF:-1, KURD NEWS HD 
+http://172.25.25.99:80/kurdnews/index.m3u8
+#EXTINF:-1, WAAR HD 
+http://172.25.25.99:80/war/index.m3u8
+#EXTINF:-1, SHOW HD HD 
+http://172.25.25.99:80/showhd/index.m3u8
+#EXTINF:-1, RUDWA HD 
+http://172.25.25.99:80/rudwa/index.m3u8
+#EXTINF:-1, NRT4 HD 
+http://172.25.25.99:80/nrt4/index.m3u8
+#EXTINF:-1, KOREK HD 
+http://172.25.25.99:80/korek/index.m3u8
+#EXTINF:-1, NRT2 HD 
+http://172.25.25.99:80/nrt5/index.m3u8
+#EXTINF:-1, NRT3 HD 
+http://172.25.25.99:80/nrt6/index.m3u8
+#EXTINF:-1, K24 HD 
+http://172.25.25.99:80/k24/index.m3u8
+#EXTINF:-1, SKY THRILLER HD 
+http://172.25.25.99:80/skyhits/index.m3u8
+#EXTINF:-1, alfa SERIES 1 HD 
+http://172.25.25.99:80/osnmusalsat/index.m3u8
+#EXTINF:-1, ROTANA MUSIC HD 
+http://172.25.25.99:80/Rotana_music/index.m3u8
+#EXTINF:-1, 2K CINEMA HD 
+http://172.25.25.99:80/cinema_2k/index.m3u8
+#EXTINF:-1, ALGHAD ALMOSHREQ HD 
+http://172.25.25.99:80/Alghad-Almushraq/index.m3u8
+#EXTINF:-1, ALJAZERA DOCUMENTARY HD 
+http://172.25.25.99:80/AlJazeera-Documentary/index.m3u8
+#EXTINF:-1, CBC DRAMA HD 
+http://172.25.25.99:80/cbc-drama/index.m3u8
+#EXTINF:-1, CBC SOFRA HD 
+http://172.25.25.99:80/CBC-Sofra/index.m3u8
+#EXTINF:-1, AL JADEED HD 
+http://172.25.25.99:80/Al-Jadeed/index.m3u8
+#EXTINF:-1, NBN LEBANON HD 
+http://172.25.25.99:80/Nbn-Lebanon/index.m3u8
+#EXTINF:-1, ALJAZEERA HD 
+http://172.25.25.99:80/AR-Al-Jazeera/index.m3u8
+#EXTINF:-1, SPACETOON HD 
+http://172.25.25.99:80/Spacetoon/index.m3u8
+#EXTINF:-1, ALAAN HD 
+http://172.25.25.99:80/Alaan-TV/index.m3u8
+#EXTINF:-1, ALIRAQIA ELEKHBAREA HD 
+http://172.25.25.99:80/Iraqia-News/index.m3u8
+#EXTINF:-1, ALFORAT HD 
+http://172.25.25.99:80/AlForat/index.m3u8
+#EXTINF:-1, HONA BAGHDAD HD 
+http://172.25.25.99:80/Hona-Baghdad/index.m3u8
+#EXTINF:-1, DMC HD 
+http://172.25.25.99:80/DMC/index.m3u8
+#EXTINF:-1, DMC DRAMA HD 
+http://172.25.25.99:80/DMC-Drama/index.m3u8
+#EXTINF:-1, AFAQ HD 
+http://172.25.25.99:80/Afaq/index.m3u8
+#EXTINF:-1, KURDMAX HD 
+http://172.25.25.99:80/kurdmax/index.m3u8
+#EXTINF:-1, ROJAVA HD 
+http://172.25.25.99:80/Rojava/index.m3u8
+#EXTINF:-1, KURDMAX SHOW HD 
+http://172.25.25.99:80/KurdMax-Show-TV/index.m3u8
+#EXTINF:-1, atv HD 
+http://172.25.25.99:80/atv/index.m3u8
+#EXTINF:-1, Payam HD 
+http://172.25.25.99:80/Payam/index.m3u8
+#EXTINF:-1, alfa SERIES 2 HD 
+http://172.25.25.99:80/osnmusalsat2/index.m3u8
+#EXTINF:-1, LABWJAD HD 
+http://172.25.25.99:80/Laabwjad/index.m3u8
+#EXTINF:-1, WOMAN HD 
+http://172.25.25.99:80/Woman/index.m3u8
+#EXTINF:-1, MOTOR VISION HD 
+http://172.25.25.99:80/motorvision/index.m3u8
+#EXTINF:-1, LBC International HD 
+http://172.25.25.99:80/Fashion-Box/index.m3u8
+#EXTINF:-1, FAST BOX HD 
+http://172.25.25.99:80/FastBox/index.m3u8
+#EXTINF:-1, CN Arabic HD 
+http://172.25.25.99:80/CartoonNetwork/index.m3u8
+#EXTINF:-1, SKY FAMILY HD 
+http://172.25.25.99:80/SkyFamily/index.m3u8
+#EXTINF:-1, SKY DRAMA HD 
+http://172.25.25.99:80/SkyDrama/index.m3u8
+#EXTINF:-1, REEL PX CINEMA HD 
+http://172.25.25.99:80/REELPXCINEMA/index.m3u8
+#EXTINF:-1, REEL PX UNLIMTE HD 
+http://172.25.25.99:80/REELPXUNLIMTE/index.m3u8
+#EXTINF:-1, REEL PX FAMELY HD 
+http://172.25.25.99:80/REELPXFAMELY/index.m3u8
+#EXTINF:-1, TFC HD 
+http://172.25.25.99:80/TFC/index.m3u8
+#EXTINF:-1, OSN SERIES HD 
+http://172.25.25.99:80/OSN-SERIES/index.m3u8
+#EXTINF:-1, ALRYAN HD 
+http://172.25.25.99:80/ALRYAN/index.m3u8
+#EXTINF:-1, Iraqi Education HD 
+http://172.25.25.99:80/iraqi_edu/index.m3u8
+#EXTINF:-1, AlShabab Sport HD HD 
+http://172.25.25.99:80/AlShabab_Sport_HD/index.m3u8
+#EXTINF:-1, IFC Gourment HD 
+http://172.25.25.99:80/IFCGourment/index.m3u8
+#EXTINF:-1, IFC Masrahyat HD 
+http://172.25.25.99:80/IFCMasrahyat/index.m3u8
+#EXTINF:-1, IFC Fancy HD 
+http://172.25.25.99:80/IFCFancy/index.m3u8
+#EXTINF:-1, IFC Mistory HD 
+http://172.25.25.99:80/IFCMistory/index.m3u8
+#EXTINF:-1, IFC Panorama HD 
+http://172.25.25.99:80/IFCPanorama/index.m3u8
+#EXTINF:-1, IFC Arabic HD 
+http://172.25.25.99:80/IFCArabic/index.m3u8
+#EXTINF:-1, IFC Kids HD 
+http://172.25.25.99:80/IFCKids/index.m3u8
+#EXTINF:-1, IFC Universe HD 
+http://172.25.25.99:80/IFCUniverse/index.m3u8
+#EXTINF:-1, IFC Comedy HD 
+http://172.25.25.99:80/IFCComedy/index.m3u8
+#EXTINF:-1, IFC Turkey HD 
+http://172.25.25.99:80/IFCTurkey/index.m3u8
+#EXTINF:-1, ELEVEN 1 HD 
+http://172.25.25.99:80/eleven1/index.m3u8
+#EXTINF:-1, ELEVEN 2 HD 
+http://172.25.25.99:80/eleven2/index.m3u8
+#EXTINF:-1, ad HD 
+http://172.25.25.99:80/ad/index.m3u8
+#EXTINF:-1, Alghadeer HD 
+http://172.25.25.99:80/Alghadeer/index.m3u8
+#EXTINF:-1, dlife HD 
+http://172.25.25.99:80/dlife/index.m3u8
+#EXTINF:-1, dtx HD 
+http://172.25.25.99:80/dtx/index.m3u8
+#EXTINF:-1, Dubai TV HD 
+http://172.25.25.99:80/Dubai-TV/index.m3u8
+#EXTINF:-1, ALIRAQIA HD 
+http://172.25.25.99:80/Iraqia_Entertainment/index.m3u8
+#EXTINF:-1, MBC 1HD HD 
+http://172.25.25.99:80/MBC1HD/index.m3u8
+#EXTINF:-1, Quran HD 
+http://172.25.25.99:80/Quran/index.m3u8
+#EXTINF:-1, ssc sport1 HD 
+http://172.25.25.99:80/ssc_sport1/index.m3u8
+#EXTINF:-1, ssc sport2 HD 
+http://172.25.25.99:80/ssc_sport2/index.m3u8
+#EXTINF:-1, ssc sport3 HD 
+http://172.25.25.99:80/ssc_sport3/index.m3u8
+#EXTINF:-1, ssc sport4 HD 
+http://172.25.25.99:80/ssc_sport4/index.m3u8
+#EXTINF:-1, ssc sport5 HD 
+http://172.25.25.99:80/ssc_sport5/index.m3u8
+#EXTINF:-1, ssc sport6 HD 
+http://172.25.25.99:80/ssc_sport6/index.m3u8
+#EXTINF:-1, ssc sport7 HD 
+http://172.25.25.99:80/ssc_sport7/index.m3u8
+#EXTINF:-1, SERIE A 1 HD 
+http://172.25.25.99:80/seria-ch1/index.m3u8
+#EXTINF:-1, SERIE A 2 HD 
+http://172.25.25.99:80/seria-ch2/index.m3u8
+#EXTINF:-1, SERIE A 3 HD 
+http://172.25.25.99:80/seria-ch3/index.m3u8
+#EXTINF:-1, SERIE A 4 HD 
+http://172.25.25.99:80/seria-ch4/index.m3u8
